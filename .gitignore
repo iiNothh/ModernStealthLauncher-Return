@@ -1,0 +1,7 @@
+.vs/
+build/
+SharpMonoInjector/
+
+Injector GUI/.vs/
+Injector GUI/obj/
+Injector GUI/bin/
