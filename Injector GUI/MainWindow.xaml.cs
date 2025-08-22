@@ -893,7 +893,6 @@ namespace Injector_GUI
             string smiPath = Path.Combine(tempDir, "smi.exe");
 
             ExtractEmbeddedDll("Injector_GUI.Resources.SharpMonoInjector.dll", monoLoaderPath);
-            ExtractEmbeddedDll("Injector_GUI.Resources.smi.exe", smiPath);
 
             if (!File.Exists(monoLoaderPath))
             {
